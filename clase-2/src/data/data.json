@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "year": "1965"
+    },
+    {
+        "title": "Ender's Game",
+        "author": "Orson Scott Card",
+        "year": "1985"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": "1949"
+    },
+    {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "year": "1979"
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "year": "1932"
+    },
+    {
+        "title": "Foundation",
+        "author": "Isaac Asimov",
+        "year": "1951"
+    },
+    {
+        "title": "Neuromancer",
+        "author": "William Gibson",
+        "year": "1984"
+    },
+    {
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "year": "2011"
+    },
+    {
+        "title": "Snow Crash",
+        "author": "Neal Stephenson",
+        "year": "1992"
+    },
+    {
+        "title": "The War of the Worlds",
+        "author": "H.G. Wells",
+        "year": "1898"
+    }
+]
