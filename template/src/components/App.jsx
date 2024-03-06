@@ -6,7 +6,7 @@ function App() {
     <>
 
       <div>
-        <h1>Template react </h1>
+        <h1>Template react, ordenada con las carpetas correspondientes </h1>
       </div>
 
     </>
